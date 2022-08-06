@@ -36,6 +36,7 @@ const hayDescuento = () => {
 const vaciarLista = () => {
   lista?.innerHTML = "";
   total?.innerHTML = "";
+  promo.innerHTML = "";
 };
 
 //AGREGAMOS EVENTOS A LOS BOTONES
