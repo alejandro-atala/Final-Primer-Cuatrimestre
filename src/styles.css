@@ -1,3 +1,8 @@
 .fondo {
   background-image: url("https://th.bing.com/th/id/OIP.K9JAbh-Ucw6U9f89YGisiAHaJ4?pid=ImgDet&w=960&h=1280&rs=1");
 }
+
+.background {
+  background-color: rgba(255, 230, 1, 0.767);
+  border: 3px solid rgb(0, 0, 0);
+}
